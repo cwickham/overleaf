@@ -8,3 +8,14 @@ It has some R code in `R/`.
 
 It has some LaTeX documents in `doc/`.
 
+On initial commit the project looked like:
+```
+├── R
+│   └── stuff.R
+├── README.md
+├── doc
+│   ├── tex-doc-1.tex
+│   └── tex-doc-2.tex
+└── overleaf.Rproj
+```
+
